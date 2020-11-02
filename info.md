@@ -1,6 +1,6 @@
-<!--### Chapter Information
+### Chapter Information
 * Chapter Region
 
 ### Social Links
-* [Meetup](#)
-* [Social Link](#)-->
+* [Meetup](https://meetup.com/OWASP-Kansas-City)
+* [Twitter](https://twitter.com/OWASPKC)
