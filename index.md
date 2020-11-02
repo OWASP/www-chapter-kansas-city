@@ -24,6 +24,8 @@ _OWASP-KC’s mission is to be a welcoming community for Web Application Develop
 
 The best way to stay up-to-date with our chapter is to join our [Meetup Group](https://www.meetup.com/OWASP-Kansas-City)!  We will post all our updates there.  In addition, you can [follow us on Twitter at @OWASPKC!](https://twitter.com/owaspkc/).   
 
+{% include chapter_events.html group=OWASP-Kansas-City %}
+
 ## Participation
 
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of 
