@@ -7,7 +7,7 @@ level: 0
 
 region: United States
 
-auto-migrated: 1
+auto-migrated: 0
 meetup-group: OWASP-Kansas-City
 country: USA
 postal-code: 64108
