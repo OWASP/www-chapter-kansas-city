@@ -5,7 +5,7 @@ title: OWASP Kansas City
 tags: web-application-security kansas-city missouri
 level: 0
 
-region: United States
+region: North America
 
 auto-migrated: 0
 meetup-group: OWASP-Kansas-City
