@@ -20,7 +20,7 @@ postal-code: 64108
 
 _OWASP-KC’s mission is to be a welcoming community for Web Application Developers and Information Security Professionals to learn, communicate, and share their perspectives at a common table._
 
-#### Our chapter is currently on hiatus until the beginning of 2021, at which point we will re-evaluate the COVID-19 situation and weigh the potential for virtual or in-person meetings.   
+#### We will be having our first meeting of 2021 virtually on March 22nd!  We will be trying to put together a plan for returning to semi-regular meetings in 2021  and onward, as COVID vaccines become more available, and COVID rates drop.   Check our meetup group below for meeting details, we hope to see you there!
 
 The best way to stay up-to-date with our chapter is to join our [Meetup Group](https://www.meetup.com/OWASP-Kansas-City)!  We will post all our updates there.  In addition, you can [follow us on Twitter at @OWASPKC!](https://twitter.com/owaspkc/).   
 
