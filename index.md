@@ -20,9 +20,9 @@ postal-code: 64108
 
 _OWASP-KC’s mission is to be a welcoming community for Web Application Developers and Information Security Professionals to learn, communicate, and share their perspectives at a common table._
 
-#### We will be having our first meeting of 2021 virtually on March 22nd!  We will be trying to put together a plan for returning to semi-regular meetings in 2021  and onward, as COVID vaccines become more available, and COVID rates drop.   Check our meetup group below for meeting details, we hope to see you there!
+#### We're back! First KC - OWASP meeting in a hot minute! Let's use this to learn about threat modeling, sharpen our skills, meet new people, and make plans for the future of OWASP in KC! Join us on September 27th at Tenfold Security (620 W 26th St, Kansas City, MO 64108) from 5:30 pm - 8:00 pm, or whenever the libations run dry. The speaking topic is an introduction to Threat Modeling. Hope to see everyone there.
 
-The best way to stay up-to-date with our chapter is to join our [Meetup Group](https://www.meetup.com/OWASP-Kansas-City)!  We will post all our updates there.  In addition, you can [follow us on Twitter at @OWASPKC!](https://twitter.com/owaspkc/).   
+The best way to stay up-to-date with our chapter is to join our [Meetup Group](https://www.meetup.com/OWASP-Kansas-City)!  We will post all our updates there.  
 
 {% include chapter_events.html group=OWASP-Kansas-City %}
 
