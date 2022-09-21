@@ -22,9 +22,8 @@ _OWASP-KC’s mission is to be a welcoming community for Web Application Develop
 
 #### We're back! First KC - OWASP meeting in a hot minute! Let's use this to learn about threat modeling, sharpen our skills, meet new people, and make plans for the future of OWASP in KC! Join us on September 27th at Tenfold Security (620 W 26th St, Kansas City, MO 64108) from 5:30 pm - 8:00 pm, or whenever the libations run dry. The speaking topic is an introduction to Threat Modeling. Hope to see everyone there.
 
-The best way to stay up-to-date with our chapter is to join our [Meetup Group](https://www.meetup.com/OWASP-Kansas-City)!  We will post all our updates there.  
+The best way to stay up-to-date with our chapter is to join our [Meetup Group](https://www.meetup.com/OWASP-Kansas-City)! We will post all our updates there.  
 
-{% include chapter_events.html group=OWASP-Kansas-City %}
 
 ## Participation
 
