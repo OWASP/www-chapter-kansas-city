@@ -13,18 +13,31 @@ country: USA
 postal-code: 64108
 
 ---
-
-## OWASP Kansas City
+# OWASP Kansas City
 
 ## Our Chapter
+OWASP-KC’s mission is to be a welcoming community for Web Application Developers and Information Security Professionals to learn, communicate, and share their perspectives at a common table.
 
-_OWASP-KC’s mission is to be a welcoming community for Web Application Developers and Information Security Professionals to learn, communicate, and share their perspectives at a common table._
+The Chapter President is Joshua Williams. Mat Caughron is the honorary El Presidente Emeritus.
 
-#### We're back! First KC - OWASP meeting in a hot minute! Let's use this to learn about threat modeling, sharpen our skills, meet new people, and make plans for the future of OWASP in KC! Join us on September 27th at Tenfold Security (620 W 26th St, Kansas City, MO 64108) from 5:30 pm - 8:00 pm, or whenever the libations run dry. The speaking topic is an introduction to Threat Modeling. Hope to see everyone there.
+## Upcoming Events
+### OWASP Kansas City Chapter Meeting
+**When:** Tuesday, October 25th, 2022 @6:00pm - 8:00pm
+**Where:** Tenfold Security 620 W 26th St, Kansas City, MO 64108
 
-The best way to stay up-to-date with our chapter is to join our [Meetup Group](https://www.meetup.com/OWASP-Kansas-City)! We will post all our updates there.  
+**Presentation:** A Lively Debate over DevSecOps w/ Jon Broek and Joe Nicastro
 
+**Speakers:**
+Jon Broek - CEO of Tenfold Security
+Joe Nicastro - Senior Sales Engineer at Apiiro
 
+**RSVP:** https://www.meetup.com/OWASP-Kansas-City/
+
+---
+### Meeting Supporters
+The October chapter meetup is sponsored by [IriusRisk](https://www.iriusrisk.com)
+
+---
 ## Participation
 
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of 
