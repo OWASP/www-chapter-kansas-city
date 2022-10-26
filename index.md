@@ -22,20 +22,17 @@ The Chapter President is Joshua Williams. Mat Caughron is the honorary El Presid
 
 ## Upcoming Events
 ### OWASP Kansas City Chapter Meeting
-**When:** Tuesday, October 25th, 2022 @6:00pm - 8:00pm
-**Where:** Tenfold Security 620 W 26th St, Kansas City, MO 64108
-
-**Presentation:** A Lively Debate over DevSecOps w/ Jon Broek and Joe Nicastro
-
-**Speakers:**
-Jon Broek - CEO of Tenfold Security
-Joe Nicastro - Senior Sales Engineer at Apiiro
+**When:** Tuesday, November 22nd, 2022 @6:00pm - 8:00pm  
+**Where:** Tenfold Security 620 W 26th St, Kansas City, MO 64108  
+**Presentation:** TBD  
+**Speakers:**  
+TBD 
 
 **RSVP:** https://www.meetup.com/OWASP-Kansas-City/
 
 ---
 ### Meeting Supporters
-The October chapter meetup is sponsored by [IriusRisk](https://www.iriusrisk.com)
+TBD
 
 ---
 ## Participation
