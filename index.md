@@ -22,11 +22,11 @@ The Chapter President is Joshua Williams. Mat Caughron is the honorary El Presid
 
 ## Upcoming Events
 ### OWASP Kansas City Chapter Meeting
-**When:** Tuesday, November 22nd, 2022 @6:00pm - 8:00pm  
+**When:** Tuesday, January 24nd, 2022 @6:00pm - 8:00pm  
 **Where:** Tenfold Security 620 W 26th St, Kansas City, MO 64108  
-**Presentation:** AppSec Meets Cyber Insurance  
+**Presentation:** Software Bill of Materials (SBOM)   
 **Speakers:**  
-Charlie Stenger, CEO GST Specialty 
+Mat Caughron 
 
 **RSVP:** https://www.meetup.com/OWASP-Kansas-City/
 
