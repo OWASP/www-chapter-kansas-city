@@ -13,7 +13,10 @@ country: USA
 postal-code: 64108
 
 ---
-# OWASP Kansas City
+<strong>Home Page</strong>
+&nbsp;&nbsp;&nbsp;[Past Events](tab_pastevents.md)
+
+
 
 ## Our Chapter
 OWASP-KC’s mission is to be a welcoming community for Web Application Developers and Information Security Professionals to learn, communicate, and share their perspectives at a common table.
