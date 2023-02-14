@@ -1,10 +1,10 @@
 ---
-<!---title: PastEvents
+title: PastEvents
 displaytext: Past Events
 layout:  null
-tab: true
+tab: false
 order: 1
-tags: pastevents--->
+tags: pastevents
 ---
 
 ## Past Events
