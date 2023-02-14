@@ -21,7 +21,7 @@ postal-code: 64108
 ## Our Chapter
 OWASP-KC’s mission is to be a welcoming community for Web Application Developers and Information Security Professionals to learn, communicate, and share their perspectives at a common table.
 
-The Chapter President is Joshua Williams. Mat Caughron is the honorary El Presidente Emeritus.
+The Chapter leaders are Joshua Williams and Joe Nicastro. Mat Caughron is the honorary El Presidente Emeritus.
 
 ## Upcoming Events
 ### OWASP Kansas City Chapter Meeting
