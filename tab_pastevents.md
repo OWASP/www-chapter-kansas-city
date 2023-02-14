@@ -15,6 +15,12 @@ tags: pastevents
 **Presentation:** Software Bill of Materials (SBOM)   
 **Speakers:**  Mat Caughron 
 
+### November 2022
+**When:** Tuesday, November 22nd, 2022 @6:00pm - 8:00pm  
+**Where:** Tenfold Security 620 W 26th St, Kansas City, MO 64108  
+**Presentation:** Cyber Security Insurace   
+**Speakers:**  Mat Caughron 
+
 ### October 2022 Sponsored by IriusRisk
 **When:** Tuesday, October 25th, 2022 @6:00pm - 8:00pm  
 **Where:** Tenfold Security 620 W 26th St, Kansas City, MO 64108  
