@@ -5,8 +5,7 @@ tab: true
 order: 1
 tags: pastevents
 ---
-
-## Past Events
+# Past Events
 
 ### February 2023
 **When:** Tuesday, February 21st, 2023 @6:00pm - 8:00pm  
