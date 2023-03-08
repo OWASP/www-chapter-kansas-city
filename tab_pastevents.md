@@ -2,7 +2,7 @@
 title: PastEvents
 displaytext: Past Events
 layout:  null
-tab: false
+tab: true
 order: 1
 tags: pastevents
 ---
