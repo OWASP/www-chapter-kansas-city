@@ -1,6 +1,5 @@
 ---
-title: PastEvents
-displaytext: Past Events
+title: Meetings
 layout:  null
 tab: true
 order: 1
@@ -8,6 +7,12 @@ tags: pastevents
 ---
 
 ## Past Events
+
+### February 2023
+**When:** Tuesday, February 21st, 2023 @6:00pm - 8:00pm  
+**Where:** Tenfold Security 620 W 26th St, Kansas City, MO 64108  
+**Presentation:** [Stammtisch](https://www.definitions.net/definition/Stammtisch)  
+**Speakers:**  Open Session
 
 ### January 2023
 **When:** Tuesday, January 24nd, 2022 @6:00pm - 8:00pm  
