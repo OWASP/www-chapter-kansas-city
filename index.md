@@ -35,7 +35,7 @@ The Chapter leaders are Joshua Williams and Joe Nicastro. Mat Caughron is the ho
 
 ---
 ### Meeting Supporters
-We are open and happy to host sponsors for our meetups. Please contact [Josh](j.williams@owasp.org) or [Joe](joe.nicastro@owasp.org) about sponsoring a meeting.
+We are open and happy to host sponsors for our meetups. Please contact [Josh](mailto: j.williams@owasp.org) or [Joe](mailto: joe.nicastro@owasp.org) about sponsoring a meeting.
 
 ---
 ## Participation
