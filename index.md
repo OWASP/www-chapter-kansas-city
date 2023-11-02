@@ -25,10 +25,10 @@ The Chapter leaders are Joshua Williams and Joe Nicastro. Mat Caughron is the ho
 
 ## Upcoming Events
 ### OWASP Kansas City Chapter Meeting
-**When:** Tuesday, May 30th, 2023 @6:00pm - 8:00pm  
-**Where:** Tenfold Security 620 W 26th St, Kansas City, MO 64108  
+**When:** Tuesday, Nov 7th, 2023 @6:00pm - 8:00pm  
+**Where:** Charlie Hooper's - 12 W 63rd St, Kansas City, MO 64113  
 **Speaker:**  Joe Nicastro  
-**Presentation:** ChatGPT for Application Security  
+**Presentation:** AI for AppSec 
 
 **RSVP:** https://www.meetup.com/OWASP-Kansas-City/
 
