@@ -7,6 +7,12 @@ tags: pastevents
 ---
 # Past Events
 
+### May 2023
+**When:** Tuesday, May 30th, 2023 @6:00pm - 8:00pm
+**Where:** Tenfold Security 620 W 26th St, Kansas City, MO 64108
+**Speaker:** Joe Nicastro
+**Presentation:** ChatGPT for Application Security
+
 ### February 2023
 **When:** Tuesday, February 21st, 2023 @6:00pm - 8:00pm  
 **Where:** Tenfold Security 620 W 26th St, Kansas City, MO 64108  
