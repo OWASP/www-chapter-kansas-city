@@ -7,6 +7,12 @@ tags: pastevents
 ---
 # Past Events
 
+### November 2023
+**When:** Tuesday, Nov 7th, 2023 @6:00pm - 8:00pm  
+**Where:** Charlie Hooper's - 12 W 63rd St, Kansas City, MO 64113  
+**Speaker:**  Joe Nicastro  
+**Presentation:** AI for AppSec 
+
 ### May 2023
 **When:** Tuesday, May 30th, 2023 @6:00pm - 8:00pm
 **Where:** Tenfold Security 620 W 26th St, Kansas City, MO 64108
