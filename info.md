@@ -3,4 +3,4 @@
 
 ### Social Links
 * [Meetup](https://meetup.com/OWASP-Kansas-City)
-* [Twitter](https://twitter.com/OWASPKC)
+* [LinkedIn](https://www.linkedin.com/company/owaspkc)
