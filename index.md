@@ -26,7 +26,7 @@ The Chapter leaders are Joshua Williams and Joe Nicastro. Mat Caughron is the ho
 ## Upcoming Events
 ### OWASP Kansas City Chapter Meeting
 **When:** Thursday, April 18th, 2024 @5:30pm - 8:00pm  
-**Where:** TBD (Exciting new spot that will be announced soon)  
+**Where:** Keystone Innovation CoLab (800 E 18th St, KCMO 64108)  
 **Speaker:**  Joshua Williams  
 **Presentation:** A Review on New, Exciting OWASP Projects Everyone Should Know
 
