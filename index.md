@@ -25,7 +25,7 @@ OWASP KC’s mission is to be a welcoming community for Developers, Security Cha
 **Speaker:**  Joshua Williams  
 **Presentation:** A Review on New, Exciting OWASP Projects Everyone Should Know
 
-**RSVP:** https://www.meetup.com/OWASP-Kansas-City/
+**RSVP:** [via Meetup](https://www.meetup.com/OWASP-Kansas-City/)
 
 ---
 ## Supporters
