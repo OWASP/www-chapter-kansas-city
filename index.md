@@ -10,7 +10,7 @@ meetup-group: OWASP-Kansas-City
 country: USA
 ---
 ## Welcome
-![OWASP KC](assets/images/OWASPKansasCity.png)
+![OWASP KC](assets/images/OWASPKansasCity.jpg)
 Welcome to the OWASP [KC](https://en.wikipedia.org/wiki/Kansas_City_metropolitan_area) Chapter Homepage!
 
 We meet monthly and are starting at a new location at the Keystone Innovation District in the Crossroads.
