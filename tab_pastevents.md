@@ -1,7 +1,8 @@
 ---
-title: Meetings
+title: Past Events
+displaytext: Past Events
 layout:  null
-tab: false
+tab: true
 order: 1
 tags: pastevents
 ---
