@@ -6,22 +6,17 @@ tags: web-application-security kansas-city missouri
 level: 0
 
 region: North America
-
-auto-migrated: 0
 meetup-group: OWASP-Kansas-City
 country: USA
-postal-code: 64108
-
 ---
-<strong>Home Page</strong>
-&nbsp;&nbsp;&nbsp;[Past Events](tab_pastevents.md)
+## Welcome
+![OWASP KC](assets/images/OWASP KC Logo.jpeg)
+Welcome to the OWASP [KC](https://en.wikipedia.org/wiki/Kansas_City_metropolitan_area) Chapter Homepage!
 
-
+We meet monthly and are starting at a new location at the Keystone Innovation District in the Crossroads.
 
 ## Our Chapter
-OWASP-KC’s mission is to be a welcoming community for Web Application Developers and Information Security Professionals to learn, communicate, and share their perspectives at a common table.
-
-The Chapter leaders are Joshua Williams and Joe Nicastro. Mat Caughron is the honorary El Presidente Emeritus.
+OWASP-KC’s mission is to be a welcoming community for Developers, Security Champions, and Information Security Professionals to learn, communicate, and share their perspectives at a common table.
 
 ## Upcoming Events
 ### OWASP Kansas City Chapter Meeting
@@ -33,7 +28,7 @@ The Chapter leaders are Joshua Williams and Joe Nicastro. Mat Caughron is the ho
 **RSVP:** https://www.meetup.com/OWASP-Kansas-City/
 
 ---
-### Meeting Supporters
+## Supporters
 We are open and happy to host sponsors for our meetups. Please contact [Josh](mailto:j.williams@owasp.org) or [Joe](mailto:joe.nicastro@owasp.org) about sponsoring a meeting.
 
 ---
