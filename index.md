@@ -16,7 +16,7 @@ Welcome to the OWASP [KC](https://en.wikipedia.org/wiki/Kansas_City_metropolitan
 We meet monthly and are starting at a new location at the Keystone Innovation District in the Crossroads.
 
 ## Our Chapter
-OWASP-KC’s mission is to be a welcoming community for Developers, Security Champions, and Information Security Professionals to learn, communicate, and share their perspectives at a common table.
+OWASP KC’s mission is to be a welcoming community for Developers, Security Champions, and Information Security Professionals to learn, communicate, and share their perspectives at a common table.
 
 ## Upcoming Events
 ### OWASP Kansas City Chapter Meeting
